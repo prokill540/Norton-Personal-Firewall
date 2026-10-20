@@ -216,4 +216,4 @@ Norton Personal Firewall is available as a full free version with all features u
 Protect your computer today with Norton Personal Firewall — download your free copy now!
 
 ---
-**Last updated:** 2026-10-20 01:27:52 UTC
+**Last updated:** 2026-10-20 07:01:33 UTC
